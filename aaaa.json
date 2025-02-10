@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "65d3f3e8a1b2c3d4e5f6c901",
+    "name": "Phòng họp 1",
+    "description": "Phòng họp dành cho 10 người",
+    "status": "available"
+  },
+  {
+    "_id": "65d3f3e8a1b2c3d4e5f6c902",
+    "name": "Bàn làm việc 3",
+    "description": "Bàn làm việc cá nhân, gần cửa sổ",
+    "status": "unavailable"
+  }
+]
+
